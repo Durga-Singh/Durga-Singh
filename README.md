@@ -20,15 +20,6 @@ I work with **Python** and **JavaScript** for automation, with **SQL, PHP, and M
 
 ## Featured projects
 
-### [A4 PDF Converter](https://github.com/Durga-Singh/PY-bash-code-for-ICICI-Bank-PDF-standardisation)
-**Python · PDF processing · Batch workflows**
-
-A desktop and command-line tool for converting supported PDF layouts into standardized A4 documents.
-
-- Batch processing, folder watching, and retry/resume support.
-- Validation reports for text, layout, and table content.
-- Explicit review statuses for unsupported or uncertain results.
-
 ### [Business Profile Batch Updater](https://github.com/Durga-Singh/business-profile-batch-updater)
 **JavaScript · Browser extension · Python audit utility**
 
