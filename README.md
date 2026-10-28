@@ -6,7 +6,7 @@
 
 I build tools that turn repetitive tasks into repeatable workflows.
 
-**Document processing &nbsp; / &nbsp; Browser automation &nbsp; / &nbsp; Data validation**
+**Browser automation &nbsp; / &nbsp; Data validation**
 
 </div>
 
