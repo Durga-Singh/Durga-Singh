@@ -1,3 +1,5 @@
+![Durga Singh — Frontend development, automation and data analysis](./assets/hero.svg)
+
 <div align="center">
 
 # Hi, I'm Durga Singh
