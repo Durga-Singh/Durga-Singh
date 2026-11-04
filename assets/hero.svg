@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560" role="img" aria-labelledby="title desc">
+  <title id="title">Durga Singh — Frontend, automation and data analysis</title>
+  <desc id="desc">I build tools that make everyday work easier. A dark navy banner with teal typography and connected browser, automation and chart panels.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#081521"/><stop offset=".55" stop-color="#0b1424"/><stop offset="1" stop-color="#19112d"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#39e8cb"/><stop offset="1" stop-color="#75c5ff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#19bea9" stop-opacity=".15"/><stop offset="1" stop-color="#19bea9" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a7bbdf" stroke-opacity=".055"/></pattern>
+    <clipPath id="bounds"><rect x="1" y="1" width="1498" height="558" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <path fill="url(#background)" d="M0 0H1500V560H0z"/>
+    <path fill="url(#grid)" d="M0 0H1500V560H0z"/>
+    <ellipse cx="1170" cy="270" rx="370" ry="320" fill="url(#halo)"/>
+    <path d="M65 1H210" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M1 345V425" stroke="#39e8cb" stroke-opacity=".6" stroke-width="3"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="72" y="78" fill="#43dfc6" font-size="15" font-weight="700" letter-spacing="3.2">DURGA SINGH / DEVELOPER</text>
+      <text x="68" y="165" fill="#f2f6ff" font-size="62" font-weight="700" letter-spacing="-2">I build tools that</text>
+      <text x="68" y="239" fill="#f2f6ff" font-size="62" font-weight="700" letter-spacing="-2">make everyday</text>
+      <text x="68" y="313" fill="url(#accent)" font-size="62" font-weight="700" letter-spacing="-2">work easier.</text>
+      <text x="72" y="369" fill="#a8b8cc" font-size="21">From web experiences to repeatable workflows.</text>
+      <path d="M72 405H770" stroke="#26384b"/>
+      <g font-size="13" font-weight="700" letter-spacing="1.2">
+        <rect x="72" y="432" width="154" height="34" rx="17" fill="#10262d" stroke="#245246"/>
+        <text x="149" y="454" text-anchor="middle" fill="#8aebd7">FRONTEND</text>
+        <rect x="238" y="432" width="172" height="34" rx="17" fill="#10212f" stroke="#284960"/>
+        <text x="324" y="454" text-anchor="middle" fill="#9fd9ff">AUTOMATION</text>
+        <rect x="422" y="432" width="193" height="34" rx="17" fill="#201c34" stroke="#473862"/>
+        <text x="518" y="454" text-anchor="middle" fill="#ccbdff">DATA ANALYSIS</text>
+      </g>
+      <text x="72" y="513" fill="#6e839c" font-size="13" letter-spacing="1">github.com/Durga-Singh</text>
+      <!-- The right-hand artwork uses only native SVG: no external assets or scripts. -->
+      <path d="M831 71V489" stroke="#304152" stroke-opacity=".65"/>
+      <circle cx="1165" cy="276" r="204" fill="none" stroke="#2f4659" stroke-opacity=".45"/>
+      <circle cx="1165" cy="276" r="154" fill="none" stroke="#3bcdbb" stroke-opacity=".24" stroke-dasharray="4 12"/>
+      <g fill="none" stroke="#36cdb8" stroke-width="2" stroke-opacity=".7">
+        <path d="M1088 176H1165V237"/>
+        <path d="M1165 315V364H1090"/>
+        <path d="M1203 276H1300V322"/>
+      </g>
+      <!-- Browser / code panel -->
+      <rect x="912" y="106" width="214" height="135" rx="14" fill="#0d1c2c" stroke="#35536a"/>
+      <path d="M912 138H1126" stroke="#2b4156"/>
+      <circle cx="930" cy="122" r="3" fill="#43dfc6"/><circle cx="942" cy="122" r="3" fill="#6e839c"/><circle cx="954" cy="122" r="3" fill="#6e839c"/>
+      <text x="1090" y="126" text-anchor="end" fill="#8ea8c2" font-size="10" letter-spacing="1.6">BUILD</text>
+      <path d="M947 164L932 180L947 196M986 164L1001 180L986 196M974 157L961 204" fill="none" stroke="#73dcca" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M1020 169H1100M1020 182H1080M1020 195H1091" stroke="#45647c" stroke-width="4" stroke-linecap="round"/>
+      <text x="930" y="224" fill="#8ea8c2" font-size="11" letter-spacing="1.3">WEB EXPERIENCES</text>
+      <!-- Automation hub -->
+      <circle cx="1165" cy="276" r="56" fill="#36cdb8" fill-opacity=".06"/>
+      <circle cx="1165" cy="276" r="39" fill="#102b32" stroke="#43dfc6" stroke-width="2"/>
+      <path d="M1149 276L1160 287L1181 265" fill="none" stroke="#b4fff0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <!-- Workflow panel -->
+      <rect x="905" y="335" width="220" height="116" rx="14" fill="#0d1c2c" stroke="#35536a"/>
+      <text x="925" y="360" fill="#8ea8c2" font-size="11" letter-spacing="1.5">REPEATABLE WORKFLOWS</text>
+      <g fill="#153a3e" stroke="#358b80"><rect x="927" y="384" width="40" height="37" rx="8"/><rect x="994" y="384" width="40" height="37" rx="8"/><rect x="1061" y="384" width="40" height="37" rx="8"/></g>
+      <path d="M967 402H994M1034 402H1061" stroke="#43dfc6" stroke-width="2"/>
+      <g fill="#94efdc" font-size="15" text-anchor="middle"><text x="947" y="408">1</text><text x="1014" y="408">2</text><text x="1081" y="408">3</text></g>
+      <!-- Data panel -->
+      <rect x="1230" y="322" width="203" height="141" rx="14" fill="#151c32" stroke="#51446d"/>
+      <text x="1248" y="348" fill="#b4a6dc" font-size="11" letter-spacing="1.5">CLEARER INSIGHTS</text>
+      <path d="M1250 435H1413" stroke="#3b4058"/>
+      <rect x="1257" y="406" width="22" height="28" rx="3" fill="#527c9d"/>
+      <rect x="1294" y="390" width="22" height="44" rx="3" fill="#648cbb"/>
+      <rect x="1331" y="398" width="22" height="36" rx="3" fill="#8d87c3"/>
+      <rect x="1368" y="372" width="22" height="62" rx="3" fill="#7ae3d2"/>
+      <circle cx="1313" cy="139" r="5" fill="#bca5ee"/>
+      <circle cx="1370" cy="243" r="3" fill="#6ecfdf"/>
+      <circle cx="1198" cy="464" r="4" fill="#43dfc6"/>
+      <text x="1159" y="513" text-anchor="middle" fill="#6e839c" font-size="11" letter-spacing="2.4">BUILD · AUTOMATE · UNDERSTAND</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1498" height="558" rx="28" fill="none" stroke="#293448" stroke-width="2"/>
+</svg>
