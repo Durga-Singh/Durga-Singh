@@ -22,6 +22,15 @@ I work with **Python** and **JavaScript** for automation, with **SQL, PHP, and M
 
 ## Featured projects
 
+### [Frame — Screen Recorder (In Progress)](https://github.com/Durga-Singh/frame-screen-recorder)
+**JavaScript · HTML · Chrome Extension (Manifest V3)**
+
+A screen recording extension I'm building step by step, with a focus on simple controls and a clean recording workflow.
+
+- Starting with the extension setup, background script, and recorder page.
+- Working toward screen recording with optional audio, compression presets, and easy video saving.
+- Developing it in small, documented updates while learning the Chrome Extension APIs.
+
 ### [Business Profile Batch Updater](https://github.com/Durga-Singh/business-profile-batch-updater)
 **JavaScript · Browser extension · Python audit utility**
 
